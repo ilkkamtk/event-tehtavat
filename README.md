@@ -1,3 +1,3 @@
 # event-tehtavat
 
-Paina 'Clone or download'-nappia ja valitse 'Download ZIP'
+Paina 'Code'-nappia ja valitse 'Download ZIP'
